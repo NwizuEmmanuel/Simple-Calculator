@@ -1,1 +1,1 @@
-# Simple java calculator
+Dinner hall app
